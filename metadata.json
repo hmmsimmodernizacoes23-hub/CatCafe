@@ -1,0 +1,6 @@
+{
+  "name": "Cat Cafe Pixel Rush",
+  "description": "Cozy pixel-art cat cafe management game! Serve coffee, bake tea cakes, and pet adorable cats to slow down busy customer patience!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
